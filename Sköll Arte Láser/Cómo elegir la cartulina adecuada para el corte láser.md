@@ -59,5 +59,5 @@ El corte láser es versátil y eficaz para diseños intrincados en cartulina, pe
 ## Enlaces relacionados
 
 - [[Sköll Arte Láser]] — proyecto principal
-- [[Tipos de Grabado Láser (Clasificación, Aplicaciones y Tendencias)]] — CO2 es la máquina indicada para papel/cartón
+- [[Tipos de Grabado Láser - Clasificación, Aplicaciones y Tendencias]] — CO2 es la máquina indicada para papel/cartón
 - Fuente original: https://www.mimowork.com/es/news/choosing-the-right-cardstock-for-laser-cutting/

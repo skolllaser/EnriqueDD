@@ -80,6 +80,6 @@ El láser de diodo es una entrada **accesible y económica** al corte de acríli
 ## Enlaces relacionados
 
 - [[Sköll Arte Láser]] — proyecto principal
-- [[Tipos de Grabado Láser (Clasificación, Aplicaciones y Tendencias)]] — comparativa CO2 vs fibra vs Nd:YAG
+- [[Tipos de Grabado Láser - Clasificación, Aplicaciones y Tendencias]] — comparativa CO2 vs fibra vs Nd:YAG
 - [[Cómo elegir la cartulina adecuada para el corte láser]]
 - Fuente original: https://www.mimowork.com/es/laser/cut-acrylic-with-diode-laser/

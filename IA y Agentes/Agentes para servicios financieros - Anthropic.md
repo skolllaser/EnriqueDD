@@ -99,5 +99,5 @@ Claude conecta con decenas de plataformas de datos de mercado y sistemas interno
 
 ## Enlaces relacionados
 
-- [[Hermes Agent - Guía Completa (Arquitectura, Setup y Bucle de Auto-Mejora)]] — mismo concepto de agentes con skills + subagentes + memoria
+- [[Hermes Agent - Guía Completa - Arquitectura, Setup y Bucle de Auto-Mejora]] — mismo concepto de agentes con skills + subagentes + memoria
 - Fuente original: https://www.anthropic.com/news/finance-agents

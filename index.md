@@ -7,8 +7,8 @@ estructura: matrioska
 ---
 [[Hermes Agent Actualización]]
 
-[[Hermes Agent - Guía Completa (Arquitectura, Setup y Bucle de Auto-Mejora)]]
+[[Hermes Agent - Guía Completa - Arquitectura, Setup y Bucle de Auto-Mejora]]
 
-[[Agentes para servicios financieros (Anthropic)]]
+[[Agentes para servicios financieros - Anthropic]]
 
 [[Sköll Arte Láser]]
