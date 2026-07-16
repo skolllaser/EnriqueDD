@@ -7,4 +7,6 @@ estructura: matrioska
 ---
 [[Hermes Agent Actualización]]
 
+[[Hermes Agent - Guía Completa (Arquitectura, Setup y Bucle de Auto-Mejora)]]
+
 [[Sköll Arte Láser]]
