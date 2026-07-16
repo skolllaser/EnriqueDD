@@ -12,4 +12,5 @@ Proyecto de grabado y arte láser.
 
 - [[Tipos de Grabado Láser (Clasificación, Aplicaciones y Tendencias)]]
 - [[Cómo elegir la cartulina adecuada para el corte láser]]
+- [[Cortar acrílico con láser de diodo]]
 - [[Decoración Multicapa]]
