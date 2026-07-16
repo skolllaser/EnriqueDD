@@ -11,4 +11,5 @@ Proyecto de grabado y arte láser.
 ## Notas
 
 - [[Tipos de Grabado Láser (Clasificación, Aplicaciones y Tendencias)]]
+- [[Cómo elegir la cartulina adecuada para el corte láser]]
 - [[Decoración Multicapa]]
