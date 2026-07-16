@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sköll Arte Láser/Decoración Multicapa/Decoración Multicapa.md",
+                "file": "cree un enlace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decoración Multicapa"
-            }
-          },
-          {
-            "id": "9381612def356d73",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "cree un enlace"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Esquema de Bienvenido"
             }
+          },
+          {
+            "id": "4d4644b474238774",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,18 +190,22 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9381612def356d73",
+  "active": "65899974b2044e9f",
   "lastOpenFiles": [
-    "Sköll Arte Láser/Decoración Multicapa/Decoración Multicapa.md",
+    "index.md",
     "Sin título.base",
+    "Sköll Arte Láser/Cómo elegir la cartulina adecuada para el corte láser.md",
+    "Sköll Arte Láser/Sköll Arte Láser.md",
+    "Sköll Arte Láser/Tipos de Grabado Láser (Clasificación, Aplicaciones y Tendencias).md",
+    "Hermes Agent/Hermes Agent - Guía Completa (Arquitectura, Setup y Bucle de Auto-Mejora).md",
+    "Sköll Arte Láser/Decoración Multicapa/Decoración Multicapa.md",
+    "Hermes Agent/Hermes Agent Actualización.md",
     "Sin título.canvas",
     "Bienvenido.md",
-    "Hermes Agent/Hermes Agent Actualización.md",
-    "index.md",
-    "Sköll Arte Láser/Sköll Arte Láser.md",
     "cree un enlace.md",
     "Sköll Arte Láser/Decoración Multicapa",
     "Sin nombre",
